@@ -1,0 +1,28 @@
+{
+  "resp_code": 100,
+  "resp_desc": "查询成功 ",
+  "order_info": {
+    "order_id": "00000001",
+    "order_state": "待发货",
+    "creat_time": "2016-05-22 17:43:11"
+  },
+  "logistics": {
+    "logistics_host": "笨鸟海淘",
+    "logistics_id": "00000001",
+    "logistics_content": "宝贝已经签收"
+  },
+  "receipt_info": {
+    "name": "李彤",
+    "mobile": "18969055362",
+    "address": "浙江省杭州市江干区下沙街道杭州电子科技大学"
+  },
+  "commodity_info": {
+    "commodity_name": "【格格优选】北京南味油枣",
+    "commodity_price": "125",
+    "commodity_num": "1",
+    "commodity_deliver_way": "快递",
+    "commodity_deliver_price": "0",
+    "commodity_price_whole": "125",
+    "payment_method": "微信支付"
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>DE1F800A-2BD2-44D6-ABE5-7BB565430E73</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_local_shipping" transform="translate(-1.000000, -4.000000)">
+            <g id="Icon-24px">
+                <g>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M20,8 L17,8 L17,4 L3,4 C1.9,4 1,4.9 1,6 L1,17 L3,17 C3,18.66 4.34,20 6,20 C7.66,20 9,18.66 9,17 L15,17 C15,18.66 16.34,20 18,20 C19.66,20 21,18.66 21,17 L23,17 L23,12 L20,8 L20,8 Z M6,18.5 C5.17,18.5 4.5,17.83 4.5,17 C4.5,16.17 5.17,15.5 6,15.5 C6.83,15.5 7.5,16.17 7.5,17 C7.5,17.83 6.83,18.5 6,18.5 L6,18.5 Z M19.5,9.5 L21.46,12 L17,12 L17,9.5 L19.5,9.5 L19.5,9.5 Z M18,18.5 C17.17,18.5 16.5,17.83 16.5,17 C16.5,16.17 17.17,15.5 18,15.5 C18.83,15.5 19.5,16.17 19.5,17 C19.5,17.83 18.83,18.5 18,18.5 L18,18.5 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

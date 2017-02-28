@@ -1,0 +1,18 @@
+{
+  "resp_code": 100,
+  "resp_desc": "查询成功 ",
+  "user": {
+    "name": "李彤并亲了你一口",
+    "user_id": "1900012",
+    "img": "http://b.hiphotos.baidu.com/image/h%3D300/sign=b71da383abaf2eddcbf14fe9bd110102/bd3eb13533fa828b670a4066fa1f4134970a5a0e.jpg",
+    "qr_code_url": "http://b.hiphotos.baidu.com/image/h%3D300/sign=b71da383abaf2eddcbf14fe9bd110102/bd3eb13533fa828b670a4066fa1f4134970a5a0e.jpg"
+  },
+  "money": {
+    "cumulative": 211,
+    "avaliable": 111
+  },
+  "fans": {
+    "fans_num": 3,
+    "fans_sales": 1233
+  }
+}

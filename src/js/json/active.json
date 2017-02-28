@@ -1,0 +1,47 @@
+{
+  "resp_code": 100,
+  "resp_desc": "查询成功 ",
+  "package_info": {
+    "package_name": "299专属套餐",
+    "logo": "",
+    "img": "",
+    "desc": "不寻求进步的吃货不是好吃货！只要购满299就可以成为我们的代言人哦！"
+  },
+  "commodities": [
+    {
+      "commodity_name": "【格格优选】北京南味油枣",
+      "img": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/190700185362927317/TB2awp2lFXXXXcvXXXXXXXXXXXX_!!0-saturn_solar.jpg_230x230.jpg",
+      "primitive_price": "32",
+      "sale_price": "21",
+      "commodity_id": "00000001"
+    },
+    {
+      "commodity_name": "【格格优选】北京南味油枣",
+      "img": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/190700185362927317/TB2awp2lFXXXXcvXXXXXXXXXXXX_!!0-saturn_solar.jpg_230x230.jpg",
+      "primitive_price": "33",
+      "sale_price": "22",
+      "commodity_id": "00000002"
+    },
+    {
+      "commodity_name": "【格格优选】北京南味油枣",
+      "img": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/190700185362927317/TB2awp2lFXXXXcvXXXXXXXXXXXX_!!0-saturn_solar.jpg_230x230.jpg",
+      "primitive_price": "52",
+      "sale_price": "33",
+      "commodity_id": "00000003"
+    },
+    {
+      "commodity_name": "【格格优选】北京南味油枣",
+      "img": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/190700185362927317/TB2awp2lFXXXXcvXXXXXXXXXXXX_!!0-saturn_solar.jpg_230x230.jpg",
+      "primitive_price": "43",
+      "sale_price": "21",
+      "commodity_id": "00000004"
+    },
+    {
+      "commodity_name": "【格格优选】北京南味油枣",
+      "img": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/190700185362927317/TB2awp2lFXXXXcvXXXXXXXXXXXX_!!0-saturn_solar.jpg_230x230.jpg",
+      "primitive_price": "66",
+      "sale_price": "33",
+      "commodity_id": "00000005"
+    }
+  ]
+}

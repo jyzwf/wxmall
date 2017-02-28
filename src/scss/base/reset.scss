@@ -1,0 +1,52 @@
+ul,li{
+  margin: 0;padding: 0;
+}
+li{
+  list-style: none;
+}
+html,ul,li,div,p{
+  font-family: "Microsoft YaHei";
+}
+
+p{
+  margin:0;
+}
+
+a{
+  text-decoration: none;
+  color:#000;
+
+  &:hover{
+    color:#000;
+  }
+}
+
+*{
+  box-sizing:border-box;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+  /* 缩放网页，文字大小不变 */
+  -webkit-text-size-adjust:none;
+}
+
+html,body{
+  margin:0;
+  background-color: #F8F8F8;
+  width:100%;
+  min-height:100%;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Microsoft YaHei";
+  -webkit-font-smoothing: antialiased;
+}
+
+
+#light_time{
+  max-width: 5.4rem;
+  margin:0 auto;
+  padding-bottom:0.35rem;
+}
+
+img,span{
+  display: inline-block;
+  vertical-align: middle;
+}
+

@@ -1,0 +1,70 @@
+{
+  "resp_code": "100",
+  "resp_desc": "获取成功",
+  "shopping_cart_info": [
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "2",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 50,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    },
+    {
+      "commodity_num": "3",
+      "commodity_id": "10000001",
+      "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+      "commodity_price": 75,
+      "commodity_title_img": "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png"
+    }
+  ],
+  "all_price": 475
+}

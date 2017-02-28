@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="./dist/libs/flexible.js"></script>
+    <title></title>
+</head>
+
+
+<body>
+
+<div id="light_time">
+    <loadpart v-show="showLoading"></loadpart>
+    <router-view transition="index_view"  transition-mode="out-in"></router-view>
+</div>
+
+<script src="./dist/libs/vue.min.js"></script>
+<script src="./dist/js/common.js"></script>
+<script src="./dist/js/build.js"></script>
+</body>
+</html>

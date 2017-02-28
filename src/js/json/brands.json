@@ -1,0 +1,30 @@
+{
+  "resp_code": "100",
+  "resp_desc": "查询成功",
+  "brands": [
+    {
+      "brand_list":{
+        "0": {
+          "brand_id": "20000003",
+          "brand_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png"
+        },
+        "1": {
+          "brand_id": "20000004",
+          "brand_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png"
+        }
+      },
+      "brand_type": "热销品牌"
+    },
+    {
+      "0": {
+        "brand_id": "20000003",
+        "brand_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png"
+      },
+      "1": {
+        "brand_id": "20000004",
+        "brand_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png"
+      },
+      "brand_type": "进口零食"
+    }
+  ]
+}

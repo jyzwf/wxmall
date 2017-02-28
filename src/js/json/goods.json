@@ -1,0 +1,35 @@
+{
+  "commodity_info": {
+    "commodity_name": "【4包装】韩国进口Gilim蜂蜜黄油腰果35g/包 蜂蜜和黄油的完美组合",
+    "commodity_id": "10000001",
+    "commodity_primitive_price": "35.00",
+    "commodity_sale_price": "25.00",
+    "commodity_time_rest": "2016-05-22 17:39:59"
+  },
+  "title_imgs": [
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_01.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_02.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_03.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_04.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_title_img_05.png"
+  ],
+  "details_imgs": [
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_01.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_02.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_03.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_04.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_05.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_06.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_07.png",
+    "http://api.xtongtong.cn/api/distribution/Public/brand_images/20000001/10000001/commodity_details_img_08.png"
+  ],
+  "brief_introductions": {
+    "cintro_shelf_life": "12个月",
+    "cintro_storage": "常温 避光 阴凉干燥处",
+    "cintro_net_content": "35g/包*4",
+    "cintro_production_date": "2016-05-19 01:14:12",
+    "cintro_place": "韩国"
+  },
+  "resp_code": "100",
+  "resp_desc": "查询成功"
+}

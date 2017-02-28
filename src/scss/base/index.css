@@ -1,0 +1,124 @@
+@charset "UTF-8";
+ul, li {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+html, ul, li, div, p {
+  font-family: "Microsoft YaHei"; }
+
+p {
+  margin: 0; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+  a:hover {
+    color: #000; }
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  /* 缩放网页，文字大小不变 */
+  -webkit-text-size-adjust: none; }
+
+html, body {
+  margin: 0;
+  background-color: #F8F8F8;
+  width: 100%;
+  min-height: 100%;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Microsoft YaHei";
+  -webkit-font-smoothing: antialiased; }
+
+#light_time {
+  max-width: 5.4rem;
+  margin: 0 auto;
+  padding-bottom: 0.35rem; }
+
+img, span {
+  display: inline-block;
+  vertical-align: middle; }
+
+.text_overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+
+.sg_cells {
+  font-size: 0.13rem;
+  border-bottom: 1px solid #e0e0e0; }
+  .sg_cells .cell_g {
+    margin: 0 0.12rem 0 0.17rem;
+    padding: 0.12rem 0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e0e0e0; }
+    .sg_cells .cell_g:last-child {
+      border: none; }
+    .sg_cells .cell_g img {
+      width: 0.56rem;
+      min-width: 0.56rem;
+      height: 0.56rem; }
+    .sg_cells .cell_g .cell_g_m {
+      margin: 0 0.16rem; }
+    .sg_cells .cell_g .cell_g_r {
+      min-width: 0.55rem; }
+      .sg_cells .cell_g .cell_g_r p {
+        white-space: nowrap;
+        text-align: right; }
+        .sg_cells .cell_g .cell_g_r p:last-child {
+          color: rgba(0, 0, 0, 0.54); }
+
+.sg_btn {
+  margin: 0.16rem;
+  width: calc(100% - 0.32rem);
+  border-radius: 0.04rem;
+  padding: 0.08rem 0;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.87);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 0.16rem;
+  text-align: center; }
+
+.s_icon {
+  width: 0.24rem;
+  height: 0.24rem; }
+
+.pseudoClass:before, .pseudoClass:after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #D9D9D9; }
+.pseudoClass:before {
+  width: 0.02rem;
+  height: 0.3rem; }
+.pseudoClass:after {
+  width: 0.3rem;
+  height: 0.02rem; }
+
+.common_header {
+  background: gray;
+  padding: 0.12rem 0.16rem;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.12rem; }
+  .common_header a {
+    color: #fff; }
+  .common_header img {
+    cursor: pointer; }
+
+[v-cloak] {
+  display: none; }
+
+/*# sourceMappingURL=index.css.map */

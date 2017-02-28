@@ -1,0 +1,114 @@
+.text_overflow{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+//商品信息展示
+.sg_cells{
+  font-size: 0.13rem;
+  border-bottom:1px solid #e0e0e0;
+  .cell_g{
+    margin:0 0.12rem 0 0.17rem;
+    padding:0.12rem 0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid #e0e0e0;
+    &:last-child{
+      border:none;
+    }
+    img{
+      width:0.56rem;
+      min-width: 0.56rem;
+      height:0.56rem;
+    }
+
+    .cell_g_m{
+
+      margin:0 0.16rem;
+    }
+
+    .cell_g_r{
+      min-width:0.55rem;
+      p{
+        white-space: nowrap;
+        text-align: right;
+        &:last-child{
+          color:rgba(0, 0, 0, 0.54);
+        }
+      }
+    }
+  }
+}
+
+//一般的button
+.sg_btn{
+  margin:0.16rem;
+  width: calc(100% - 0.32rem);
+  border-radius: 0.04rem;
+  padding:0.08rem 0;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.87);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size:0.16rem;
+  text-align: center;
+}
+
+//图标
+.s_icon{
+  width:0.24rem;
+  height:0.24rem;
+}
+
+
+//上传图片的伪类
+.pseudoClass{
+  &:before,&:after{
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #D9D9D9;
+  }
+  &:before{
+    width: 0.02rem;
+    height: 0.3rem;
+  }
+
+  &:after{
+    width: 0.3rem;
+    height: 0.02rem;
+  }
+}
+
+//收货地址，账号管理的头部
+.common_header{
+  background: gray;
+  padding:0.12rem 0.16rem;
+  text-align: center;
+  color:#fff;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:0.12rem;
+
+  a{
+    color:#fff;
+  }
+
+  img{
+    cursor: pointer;
+  }
+}
+
+
+
+
+[v-cloak] {
+  display: none;
+}
+

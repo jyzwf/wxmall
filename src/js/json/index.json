@@ -1,0 +1,106 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "activity_id": "90000001",
+      "activity_img": "http://api.xtongtong.cn/api/distribution/Public/activity_images/90000001/activity_img.png",
+      "activity_url": "https://mp.weixin.qq.com/s?__biz=MzI5MzEyNjUwNA==&mid=502740138&idx=1&sn=2eba571e3f895010269e73386dd3267e&scene=1&srcid=&key=f5c31ae61525f82e5758a696aa17dc770e99acc4d6b65c109b64944f1ee436aa304d8cb4db303025974edf16b704d0ba&ascene=0&uin=ODAyMDA2MDA3&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TAVgbrf5d0kyfgp7diZbHzr63UkZsTGMn3UkNvV1gpbSnvyz16f19zezboFcZmLB"
+    },
+    {
+      "id": "2",
+      "activity_id": "90000002",
+      "activity_img": "http://api.xtongtong.cn/api/distribution/Public/activity_images/90000002/activity_img.png",
+      "activity_url": "https://mp.weixin.qq.com/s?__biz=MzI5MzEyNjUwNA==&mid=502741303&idx=1&sn=806aca9ed7b89f1286607318aa173415&scene=1&srcid=0430dloMqVKmGYwWfoZgNUZM&key=f5c31ae61525f82ee702d0b0a71cbf36fbdd9f42b3856d99fee7cd932f9959ce7a11d99d0fdff1adcceee8194638c43e&ascene=0&uin=ODAyMDA2MDA3&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TAVgbrf5d0kyfgp7diZbHzr63UkZsTGMn3UkNvV1gpbSnvyz16f19zezboFcZmLB"
+    },
+    {
+      "id": "3",
+      "activity_id": "90000003",
+      "activity_img": "http://api.xtongtong.cn/api/distribution/Public/activity_images/90000003/activity_img.png",
+      "activity_url": "https://mp.weixin.qq.com/s?__biz=MzI5MzEyNjUwNA==&mid=401441125&idx=1&sn=d92af2cb36b695cd135e0f9bf706ade5&scene=1&srcid=0522jrD5ORQIqCPsRm4XMhcN&key=f5c31ae61525f82ebdc16d6589258bb265e332d25f456ccec6c07ec2693f00d5bde7f00cacedd4c66be3a2b493572ba0&ascene=0&uin=ODAyMDA2MDA3&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TAVgbrf5d0kyfgp7diZbHzr63UkZsTGMn3UkNvV1gpbSnvyz16f19zezboFcZmLB"
+    }
+  ],
+  "packages": [
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    },
+    {
+      "package_show_img": "http://api.xtongtong.cn/api/distribution/Public/package_images/20000001/package_show_img.png",
+      "package_name": "299元专属套餐",
+      "package_desc": "不寻求进步的吃货不是好吃货！我们的梦想就是成为站在所有吃货顶端的人！只要购满299，就可以成为我们的环球代言人，在吃遍全球的同时，还有机会发展出你的吃货粉丝军团哦~",
+      "package_id": "20000001",
+      "package_region": "china",
+      "package_time_rest": "2016-05-22 00:58:35"
+    }
+  ],
+  "resp_code": "100",
+  "resp_desc": "查询成功"
+}
